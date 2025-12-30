@@ -1,3 +1,5 @@
+[**English**](README_EN.md) | **中文**
+
 # Galgame Search Tool (Galgame 资源搜索工具)
 
 这是一个用于搜索 Galgame 资源的桌面工具。本项目提供了两个版本：**Python 版本**（原版）和 **Java 版本**（重构版）。
